@@ -1,0 +1,20 @@
+world:
+  world:
+    name: world 
+    rad: 1.0
+  world_nether:
+    name: world_nether
+    rad: 4.0
+  world_end:
+    name: world_end
+    rad: 16.0
+radiation:
+  pluie: 2.0
+safeZones:
+  safeRegions: safe
+protection:
+  #temps en seconde
+  radX: 300
+  radAway: 900
+timer:
+  time: 50
